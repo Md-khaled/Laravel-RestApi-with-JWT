@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:\\wamp64\\www\\exception"
+		},
+		{
+			"path": "C:\\wamp64\\www\\api\\api"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "learn"
+	}
+}
